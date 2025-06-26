@@ -1,7 +1,7 @@
 
 # 🎬 Microsoft Clone
 
-Este é um projeto pessoal criado como desafio prático para aplicar conhecimentos em **HTML**, **CSS**, **JavaScript** e **jQuery**.
+Este é um projeto pessoal criado como desafio prático para aplicar conhecimentos em **HTML**, **CSS** e **JavaScript**.
 
 A proposta foi desenvolver uma interface responsiva inspirada na página inicial da Microsoft, com foco em estrutura semântica, organização visual e interatividade e efeitos de hover.
 Feito no início dos meus estudos em Julho de 2024, utilizando apenas HTML, Css, e adicionando um ouvinte de evento com JavaScript apenas para alternar o botão da classe menu-btn para show quando alcançar o media query de 980px. 
